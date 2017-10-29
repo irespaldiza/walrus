@@ -1,0 +1,3 @@
+ll
+pwd
+exit
