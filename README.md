@@ -15,7 +15,7 @@ docker run -v /var/run/docker.sock:/var/run/docker.sock \
 It is designed to share a folder with our settings and resources. 
 ~~~ 
 docker run -v /var/run/docker.sock:/var/run/docker.sock \
-            -v pathToYourFolder:/root
+            -v pathToYourFolder:/root \
             -it irespaldiza/walrus
 ~~~
 > In the git hub repository there is a folder called root with a simple configuration of bash vim and where I will be placing some files to launch applications with Docker Compose.
