@@ -1,3 +1,13 @@
 ll
 pwd
 exit
+exit
+ls
+ll
+ls
+ls
+ls
+ls
+ls
+sls
+exit
