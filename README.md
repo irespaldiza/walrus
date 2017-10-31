@@ -18,7 +18,7 @@ docker run -v /var/run/docker.sock:/var/run/docker.sock \
             -v pathToYourFolder:/root \
             -it irespaldiza/walrus
 ~~~
-> In the git hub repository there is a folder called root with a simple configuration of bash vim and where I will be placing some files to launch applications with Docker Compose.
+> In the git hub repository there is a folder called root with a simple configuration of bash [vim](www.vim.org) and where I will be placing some files to launch applications with Docker Compose.
 #### Alias 
 In the .bashrc the following aliases have been added:
 ~~~
