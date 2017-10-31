@@ -1,7 +1,7 @@
 # Walrus
 Walrus is my develop center in a [Docker](https://www.docker.com/) container. The name is inspired by Captain Flint's ship (Character of the [Treasure Island](http://robert-louis-stevenson.org/works/treasure-island-1883/), created by [Robert Louis Stevenson](http://robert-louis-stevenson.org/) in 1883)
 
-This image has installed [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) so you can launch containers with different applications or programming languages. [Vim](www.vim.org) is the default editor.
+This image has installed [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) so you can launch containers with different applications or programming languages. [Vim](http://www.vim.org) is the default editor.
 
 This image is created from [Debian](http://debian.org), if you want to use the image generated with [Alpine Linux](https://alpinelinux.org/) use [walrus-alpine](https://github.com/irespaldiza/walrus-alpine).
 
